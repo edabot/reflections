@@ -1,0 +1,6 @@
+Reflections for Lesson 2!!
+
+
+The working directory is a place to ID the files that you want to be included in the commit.
+Not too sure why you want to exclude files, except for cleanliness in commits.
+ 
