@@ -21,3 +21,7 @@ The diagrams help to know where the branches are and what is unreachable. What b
 This should help in the future when figuring out what is happening on each version
 Also, how to go about a merge
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We ahve one new master branch. All of the commits get combines into the master.
+
