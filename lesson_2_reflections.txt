@@ -3,4 +3,21 @@ Reflections for Lesson 2!!
 
 The working directory is a place to ID the files that you want to be included in the commit.
 Not too sure why you want to exclude files, except for cleanliness in commits.
- 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+This way I can mak changes to multiple files, but if files have different
+kinds of changes can segment for a cleaner commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are very helpful for making new features that can be developed alongside the
+master branch, but aren't ready to be combined yet.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help to know where the branches are and what is unreachable. What builds upon what.
+This should help in the future when figuring out what is happening on each version
+Also, how to go about a merge
+
