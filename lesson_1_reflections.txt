@@ -1,0 +1,22 @@
+Reflections for version control
+Using diff is much easier for spotting the difference as ONLY the differences are called out
+this is no big deal for a small file of 40-50 lines or so, but gets to be unwieldy at 100+ lines.
+Impossible for even more.
+
+Using VC for history is very efficient as it enables us to see all of the different versions and even roll back to a previous version if we don't like the new direction.
+
+Multi-file commits are useful for when you have files that affect each other. Such as html and js and css docs 
+
+Git log shows all of the commits that have happened to the files(s)
+
+Git diff shows the differences between any two commits
+
+Version control is great because if you break anything you can checkout to a previous version.
+
+Errors can be undone. Even several steps back.
+
+Now that I know how to use Git I want to use it for all of my arduino sketches. What the fuck am I doing? Why not earlier? God damn it.
+
+Also, OpenSCAD files.
+
+
