@@ -23,5 +23,10 @@ Also, how to go about a merge
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-We ahve one new master branch. All of the commits get combines into the master.
+We have one new master branch. All of the commits get combines into the master.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Not entirely sure. It's good to do it manually so you're sure that you don't create any new problems.
+
 
